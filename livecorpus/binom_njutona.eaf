@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-25T18:24:59+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-25T20:58:45+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///C:/Users/katyk/OneDrive/Рабочий стол/✓ Бином Ньютона. Игра в слова. Числа сочетаний _ Комбинаторика _ Ботай со мной #057 _ Борис Трушин.mp4"
-            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./✓ Бином Ньютона. Игра в слова. Числа сочетаний _ Комбинаторика _ Ботай со мной #057 _ Борис Трушин.mp4"/>
+            MEDIA_URL="file:///C:/Users/katyk/OneDrive/Рабочий стол/binom_njutona.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./binom_njutona.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c35ceb29-faa8-4f80-9a34-c54512443a0a</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">117</PROPERTY>
     </HEADER>
@@ -222,8 +222,9 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="evsherstneva" LINGUISTIC_TYPE_REF="translation"
-        PARENT_REF="text@bvt1982m" PARTICIPANT="@bvt1982m" TIER_ID="transl@bvt1982m">
+    <TIER ANNOTATOR="evsherstneva" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@bvt1982m"
+        PARTICIPANT="@bvt1982m" TIER_ID="transl@bvt1982m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a60">
                 <ANNOTATION_VALUE>Hello everyone,</ANNOTATION_VALUE>
@@ -388,6 +389,7 @@
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
         GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
     <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
     <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
         LANG_ID="und" LANG_LABEL="undetermined (und)"/>
     <CONSTRAINT
