@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-25T14:48:09+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-25T17:57:40+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -140,7 +140,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
                 TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
-                <ANNOTATION_VALUE>о чем речь //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>о чем речь? //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -200,7 +200,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
                 TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
-                <ANNOTATION_VALUE>перемешиваем буквы ставим в каком-нибудь порядке сколько / различных слов может получиться //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>перемешиваем буквы ставим в каком-нибудь порядке сколько / различных слов может получиться? //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -226,12 +226,12 @@
         PARENT_REF="text@bvt1982m" PARTICIPANT="@bvt1982" TIER_ID="transl@bvt1982m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a60">
-                <ANNOTATION_VALUE>hello everyone</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Hello everyone,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a61">
-                <ANNOTATION_VALUE>it's Boris Trushin with you again and</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>it is Boris Trushin with you again and</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -241,32 +241,32 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a63">
-                <ANNOTATION_VALUE>because many of you asked me for it</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>because many of you asked me for it.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a64">
-                <ANNOTATION_VALUE>there're comments under almost every video </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>There are comments under almost every video,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a65">
-                <ANNOTATION_VALUE>when Newton binominal will be</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>when Newton binominal will be.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a66">
-                <ANNOTATION_VALUE>it will be today but a bit later</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>It will be today/ but a bit later.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a69">
-                <ANNOTATION_VALUE>at first let's play a word game</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>At first, let's play a word game.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a70">
-                <ANNOTATION_VALUE>it's very important thing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>It is a very important thing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -276,67 +276,67 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a72">
-                <ANNOTATION_VALUE>because it will be in most combinatoric task</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>because it will be in most combinatoric tasks.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a73">
-                <ANNOTATION_VALUE>many cobinatoric tasks you can restate with terms of a word game</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Many cobinatoric tasks you can restate with terms of a word game.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a74">
-                <ANNOTATION_VALUE>what we are talking about</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>What we are talking about?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a75">
-                <ANNOTATION_VALUE>let's take some word</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Let's take some word.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a76">
-                <ANNOTATION_VALUE>let's take the word trushin</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Let's take the word trushin.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a78">
-                <ANNOTATION_VALUE>so how many different words </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>So, how many different words </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a79">
-                <ANNOTATION_VALUE>it is possible to make</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>is it possible to make</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a80">
-                <ANNOTATION_VALUE>from the word trushin just replacing letters</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>from the word trushin just replacing letters?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a81">
-                <ANNOTATION_VALUE>well</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Well,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a82">
-                <ANNOTATION_VALUE>we are not linguists</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>we are not linguists,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a83">
-                <ANNOTATION_VALUE>we are like mathematics</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>we are like mathematics,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a84">
-                <ANNOTATION_VALUE>that's why we will call any sequence of the letters not necessarily meaningful yes well well</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>that is why the word we will call any sequence of the letters, not necessarily meaningful, yes, well, well.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a85">
-                <ANNOTATION_VALUE>re're mixing letters put them in some order how many different words can be</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>We are mixing letters, putring them in some order, how many different words can be created?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
