@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-25T18:02:15+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-25T18:24:59+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -64,7 +64,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="87920"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="evsherstneva" DEFAULT_LOCALE="ru"
-        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@bvt1982" TIER_ID="text@bvt1982m">
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@bvt1982m" TIER_ID="text@bvt1982m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
@@ -223,7 +223,7 @@
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="evsherstneva" LINGUISTIC_TYPE_REF="translation"
-        PARENT_REF="text@bvt1982m" PARTICIPANT="@bvt1982" TIER_ID="transl@bvt1982m">
+        PARENT_REF="text@bvt1982m" PARTICIPANT="@bvt1982m" TIER_ID="transl@bvt1982m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a60">
                 <ANNOTATION_VALUE>Hello everyone,</ANNOTATION_VALUE>
@@ -351,7 +351,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a88">
-                <ANNOTATION_VALUE>today we'll talk about it</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>today we'll talk about it.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
